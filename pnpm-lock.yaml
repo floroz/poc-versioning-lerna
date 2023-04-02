@@ -8,6 +8,12 @@ importers:
     devDependencies:
       lerna: 6.6.1
 
+  packages/a:
+    specifiers: {}
+
+  packages/b:
+    specifiers: {}
+
 packages:
 
   /@babel/code-frame/7.21.4:
